@@ -4,7 +4,7 @@ import discount.helpers as helper
 provider_LP = Provider('LP', ['S', 'M', 'L'], [1.5, 4.9, 6.9])
 provider_MR = Provider('MR', ['S', 'M', 'L'], [2, 3, 4])
 
-INPUT_FILE = 'input2.txt'
+INPUT_FILE = 'input.txt'
 TOTAL_MONTHLY_DISCOUNT = 10
 PACKAGE_SIZE_FOR_LOWEST_PRICE = 'S'
 DISCOUNT_FOR_LP_PACKAGE_SIZE = 'L'
